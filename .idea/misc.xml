@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring/day02_05_spring_import/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/day03_01_spring_account/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/day03_02_spring_proxy/pom.xml" />
       </list>
     </option>
   </component>
