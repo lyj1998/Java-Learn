@@ -1,9 +1,10 @@
-package com.itheima.proxy;
+package com.itheima.cglib;
+
+import com.itheima.proxy.IProducer;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.util.Properties;
 
 /**
  * 模拟一个消费者
