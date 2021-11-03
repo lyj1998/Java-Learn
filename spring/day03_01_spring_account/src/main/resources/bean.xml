@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
-        https://www.springframework.org/schema/beans/spring-beans.xsd
-        http://www.springframework.org/schema/context
-        https://www.springframework.org/schema/context/spring-context.xsd">
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--配置代理的service-->
+    <bean id="proxyAccountService" factory-bean="beanFactory"  factory-method="getAccountService"></bean>
+    <!--配置beanfactory-->
+    <bean id="beanFactory" class="com.itheimia.factory.BeanFactory">
+        <!--注入service-->
+        <property name="accountService" ref="accountService"></property>
+        <!--注入事务管理器-->
+        <property name="txManager" ref="txMananger"></property>
+     </bean>
+    <!--配置Service-->
+    <bean id="accountService" class="com.itheimia.service.impl.AccountServiceImpl">
+        <!--注入dao-->
+        <property name="accountDao" ref="accountDao"></property>
+     </bean>
  <!--配置Dao对象-->
     <bean id="accountDao" class="com.itheimia.dao.impl.AccountDaoImpl">
         <!--注入QueryRunner-->

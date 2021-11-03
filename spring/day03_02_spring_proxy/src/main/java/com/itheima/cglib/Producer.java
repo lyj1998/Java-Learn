@@ -5,7 +5,7 @@ import com.itheima.proxy.IProducer;
 /**
  * 一个生产者
  */
-public class Producer implements IProducer{
+public class Producer{
     /**
      * 销售
      */

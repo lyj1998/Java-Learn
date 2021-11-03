@@ -9,12 +9,14 @@
         <module name="day02_05_spring_import" />
         <module name="day03_01_spring_account" />
         <module name="day03_02_spring_proxy" />
+        <module name="day03_03_spring_aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="day02_05_spring_import" target="1.5" />
       <module name="day03_01_spring_account" target="1.5" />
       <module name="day03_02_spring_proxy" target="1.5" />
+      <module name="day03_03_spring_aop" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
