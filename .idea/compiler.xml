@@ -10,6 +10,7 @@
         <module name="day03_01_spring_account" />
         <module name="day03_02_spring_proxy" />
         <module name="day03_03_spring_aop" />
+        <module name="day03_04_adviceType" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="day03_01_spring_account" target="1.5" />
       <module name="day03_02_spring_proxy" target="1.5" />
       <module name="day03_03_spring_aop" target="1.5" />
+      <module name="day03_04_adviceType" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

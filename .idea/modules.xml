@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" filepath="$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_02_spring_proxy/day03_02_spring_proxy.iml" filepath="$PROJECT_DIR$/spring/day03_02_spring_proxy/day03_02_spring_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_03_spring_aop/day03_03_spring_aop.iml" filepath="$PROJECT_DIR$/spring/day03_03_spring_aop/day03_03_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day03_04_adviceType/day03_04_adviceType.iml" filepath="$PROJECT_DIR$/spring/day03_04_adviceType/day03_04_adviceType.iml" />
     </modules>
   </component>
 </project>
