@@ -49,3 +49,10 @@
 - 6.AOP的概念
 - 7.spring中的AOP相关术语
 - 8.spring中基于XML和注解的AOP配置
+
+### day04
+- 1.spring中的JdbcTemplate
+- 2.spring基于AOP的事务控制
+- 3.spring中的事务控制
+     基于XML的
+     基于注解的
