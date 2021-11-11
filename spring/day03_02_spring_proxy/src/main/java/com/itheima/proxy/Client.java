@@ -22,7 +22,7 @@ public class Client {
          *        设计的类：Proxy
          *        提供者：JDK官方
          *   如何创建代理对象：
-         *         使用Proxy类中国的newProxyInstance方法
+         *         使用Proxy类中的newProxyInstance方法
          *  创建代理对象的要求：
          *         被代理类最少要实现一个接口，如果没有则不能使用
          *  newProxyInstance方法的参数：

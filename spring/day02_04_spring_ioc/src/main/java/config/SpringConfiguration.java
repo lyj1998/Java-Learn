@@ -21,6 +21,10 @@ import javax.sql.DataSource;
  *        value:它和basePackages的作用是一样的，都是用于指定创建容器时要扫描的包
  *              我们使用此注解就等同于在xml中配置了
  *               <context:component-scan base-package="com.itheimia"></context:component-scan>
+ *  Bean:
+ *  作用：用于把当前方法的返回值作为bean对象存入spring的ioc容器中
+ *  属性：
+ *       name:用于指定bean的id。当不写时，默认值是当前方法的名称
  *  细节：当我们使用注解配置方法时，如果方法有参数，spring框架会去容器中查找有没有可用的bean对象。
  *        查找的方式和Autowired注解的作用是一样的
  */
