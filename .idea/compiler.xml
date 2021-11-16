@@ -13,6 +13,11 @@
         <module name="day03_04_adviceType" />
         <module name="day03_05_annotationAOP" />
         <module name="day03_06_spring_account_aop" />
+        <module name="day04_01_springJdbc" />
+        <module name="day04_02_springTx" />
+        <module name="day04_03_springtx_xml" />
+        <module name="day04_04_springtx_annotation" />
+        <module name="day04_05_springtx_withoutxml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +28,11 @@
       <module name="day03_04_adviceType" target="1.5" />
       <module name="day03_05_annotationAOP" target="1.5" />
       <module name="day03_06_spring_account_aop" target="1.5" />
+      <module name="day04_01_springJdbc" target="1.5" />
+      <module name="day04_02_springTx" target="1.5" />
+      <module name="day04_03_springtx_xml" target="1.5" />
+      <module name="day04_04_springtx_annotation" target="1.5" />
+      <module name="day04_05_springtx_withoutxml" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

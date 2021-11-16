@@ -10,6 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/spring/day03_04_adviceType/day03_04_adviceType.iml" filepath="$PROJECT_DIR$/spring/day03_04_adviceType/day03_04_adviceType.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_05_annotationAOP/day03_05_annotationAOP.iml" filepath="$PROJECT_DIR$/spring/day03_05_annotationAOP/day03_05_annotationAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_06_spring_account_aop/day03_06_spring_account_aop.iml" filepath="$PROJECT_DIR$/spring/day03_06_spring_account_aop/day03_06_spring_account_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day04_01_springJdbc/day04_01_springJdbc.iml" filepath="$PROJECT_DIR$/spring/day04_01_springJdbc/day04_01_springJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day04_02_springTx/day04_02_springTx.iml" filepath="$PROJECT_DIR$/spring/day04_02_springTx/day04_02_springTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day04_03_springtx_xml/day04_03_springtx_xml.iml" filepath="$PROJECT_DIR$/spring/day04_03_springtx_xml/day04_03_springtx_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day04_04_springtx_annotation/day04_04_springtx_annotation.iml" filepath="$PROJECT_DIR$/spring/day04_04_springtx_annotation/day04_04_springtx_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/day04_05_springtx_withoutxml/day04_05_springtx_withoutxml.iml" filepath="$PROJECT_DIR$/spring/day04_05_springtx_withoutxml/day04_05_springtx_withoutxml.iml" />
     </modules>
   </component>
 </project>
