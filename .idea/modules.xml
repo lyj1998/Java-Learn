@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring/day04_03_springtx_xml/day04_03_springtx_xml.iml" filepath="$PROJECT_DIR$/spring/day04_03_springtx_xml/day04_03_springtx_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day04_04_springtx_annotation/day04_04_springtx_annotation.iml" filepath="$PROJECT_DIR$/spring/day04_04_springtx_annotation/day04_04_springtx_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day04_05_springtx_withoutxml/day04_05_springtx_withoutxml.iml" filepath="$PROJECT_DIR$/spring/day04_05_springtx_withoutxml/day04_05_springtx_withoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
     </modules>
   </component>
 </project>

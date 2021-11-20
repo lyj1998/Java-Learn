@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/spring/day04_03_springtx_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring/day04_04_springtx_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/spring/day04_05_springtx_withoutxml/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
       </list>
     </option>
   </component>
