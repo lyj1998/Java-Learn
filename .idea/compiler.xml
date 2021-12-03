@@ -12,6 +12,7 @@
         <module name="day01_04_mybatis_design" />
         <module name="day01_mybatis_implementMybatis" />
         <module name="day01_mybatis_mybatisAnnotation" />
+        <module name="day02_01_mybatis_crud" />
         <module name="day02_05_spring_import" />
         <module name="day03_01_spring_account" />
         <module name="day03_02_spring_proxy" />
@@ -35,6 +36,7 @@
       <module name="day01_04_mybatis_design" target="1.5" />
       <module name="day01_mybatis_implementMybatis" target="1.5" />
       <module name="day01_mybatis_mybatisAnnotation" target="1.5" />
+      <module name="day02_01_mybatis_crud" target="1.5" />
       <module name="day02_05_spring_import" target="1.5" />
       <module name="day03_01_spring_account" target="1.5" />
       <module name="day03_02_spring_proxy" target="1.5" />

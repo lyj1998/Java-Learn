@@ -10,7 +10,7 @@
         https://www.springframework.org/schema/tx/spring-tx.xsd
         http://www.springframework.org/schema/aop
         https://www.springframework.org/schema/aop/spring-aop.xsd">
-<bean id="account" class="com.itheima.domain.Account"></bean>
+<bean id="account" class="com.itheima.com.itheima.domain.Account"></bean>
     <bean id="accountService" class="com.itheima.service.impl.AccountServiceImpl">
         <property name="accountDao" ref="accountDao"></property>
     </bean>

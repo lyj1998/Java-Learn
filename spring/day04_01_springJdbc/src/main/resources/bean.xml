@@ -2,7 +2,7 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-<bean id="account" class="com.itheima.domain.Account"></bean>
+<bean id="account" class="com.itheima.com.itheima.domain.Account"></bean>
     <!--配置账户的持久层-->
     <bean id="accountDao" class="com.itheima.dao.impl.AccountDaoImpl2">
         <!--<property name="jdbcTemplate" ref="jdbcTemplate"></property>-->
