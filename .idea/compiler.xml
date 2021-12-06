@@ -14,8 +14,11 @@
         <module name="day01_mybatis_mybatisAnnotation" />
         <module name="day02_01_mybatis_crud" />
         <module name="day02_05_spring_import" />
+        <module name="day03_01_mybatis_one2many" />
         <module name="day03_01_spring_account" />
+        <module name="day03_02_mybatis_many2many" />
         <module name="day03_02_spring_proxy" />
+        <module name="day03_03_jndi" />
         <module name="day03_03_spring_aop" />
         <module name="day03_04_adviceType" />
         <module name="day03_05_annotationAOP" />
@@ -38,8 +41,11 @@
       <module name="day01_mybatis_mybatisAnnotation" target="1.5" />
       <module name="day02_01_mybatis_crud" target="1.5" />
       <module name="day02_05_spring_import" target="1.5" />
+      <module name="day03_01_mybatis_one2many" target="1.5" />
       <module name="day03_01_spring_account" target="1.5" />
+      <module name="day03_02_mybatis_many2many" target="1.5" />
       <module name="day03_02_spring_proxy" target="1.5" />
+      <module name="day03_03_jndi" target="1.7" />
       <module name="day03_03_spring_aop" target="1.5" />
       <module name="day03_04_adviceType" target="1.5" />
       <module name="day03_05_annotationAOP" target="1.5" />
