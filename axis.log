@@ -55,3 +55,30 @@
 2021-11-23 18:00:48,589 1224   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@20322d26]
 2021-11-23 18:00:48,595 1230   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@20322d26]
 2021-11-23 18:00:48,596 1231   [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 540159270 to pool.
+2021-12-08 19:01:09,982 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2021-12-08 19:01:10,382 400    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-12-08 19:01:10,382 400    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-12-08 19:01:10,382 400    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-12-08 19:01:10,382 400    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2021-12-08 19:01:10,392 410    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2021-12-08 19:01:10,394 412    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2021-12-08 19:01:10,397 415    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2021-12-08 19:01:10,398 416    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-12-08 19:01:10,399 417    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-12-08 19:01:10,400 418    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/360Downloads/ideaProject/Java-Learn/mybatis/day04_03_mybatis_anntotation/target/classes/com/itheima/dao
+2021-12-08 19:01:10,401 419    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/360Downloads/ideaProject/Java-Learn/mybatis/day04_03_mybatis_anntotation/target/classes/com/itheima/dao
+2021-12-08 19:01:10,582 600    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2021-12-08 19:01:10,583 601    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/360Downloads/ideaProject/Java-Learn/mybatis/day04_03_mybatis_anntotation/target/classes/com/itheima/dao
+2021-12-08 19:01:10,583 601    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/360Downloads/ideaProject/Java-Learn/mybatis/day04_03_mybatis_anntotation/target/classes/com/itheima/dao/IUserDao.class
+2021-12-08 19:01:10,583 601    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/360Downloads/ideaProject/Java-Learn/mybatis/day04_03_mybatis_anntotation/target/classes/com/itheima/dao/IUserDao.class
+2021-12-08 19:01:10,584 602    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  
+2021-12-08 19:01:10,585 603    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2021-12-08 19:01:10,699 717    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2021-12-08 19:01:11,375 1393   [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1308244637.
+2021-12-08 19:01:11,375 1393   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4dfa3a9d]
+2021-12-08 19:01:11,383 1401   [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user 
+2021-12-08 19:01:11,565 1583   [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2021-12-08 19:01:11,649 1667   [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 6
+2021-12-08 19:01:11,688 1706   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4dfa3a9d]
+2021-12-08 19:01:11,689 1707   [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4dfa3a9d]
+2021-12-08 19:01:11,689 1707   [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1308244637 to pool.

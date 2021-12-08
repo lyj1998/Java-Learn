@@ -27,6 +27,11 @@
         <option value="$PROJECT_DIR$/mybatis/day03_01_mybatis_one2many/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/day03_02_mybatis_many2many/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/day03_03_jndi/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/day04_01_mybatis_lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/myabtis/day04_02_mybatis_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/day04_02_mybatis_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/day04_03_mybatis_anntotation/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/day04_04_mybatis_onetomany/pom.xml" />
       </list>
     </option>
   </component>
