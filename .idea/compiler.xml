@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="day01_01_mybatis_implement" />
         <module name="day01_01_mybatis_implementsmybatis" />
+        <module name="day01_01_springmvc_start" />
         <module name="day01_03_mybatis_dao" />
         <module name="day01_04_mybatis_design" />
         <module name="day01_mybatis_implementMybatis" />
@@ -38,6 +39,7 @@
     <bytecodeTargetLevel>
       <module name="day01_01_mybatis_implement" target="1.5" />
       <module name="day01_01_mybatis_implementsmybatis" target="1.5" />
+      <module name="day01_01_springmvc_start" target="1.8" />
       <module name="day01_02_mybatis_mybatisAnnotation" target="1.5" />
       <module name="day01_03_mybatis_dao" target="1.5" />
       <module name="day01_04_mybatis_design" target="1.5" />
