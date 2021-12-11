@@ -12,6 +12,6 @@
 </head>
 <body>
     <h3>入门程序</h3>
-    <a href="/user/testRestMapping">testRestMapping</a>
+    <%--<a href="/user/testRestMapping">testRestMapping</a>--%>
 </body>
 </html>

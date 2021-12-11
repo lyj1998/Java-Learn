@@ -19,5 +19,14 @@
     </bean>
 
     <!--开启springmvc框架注解的支持-->
-    <mvc:annotation-driven></mvc:annotation-driven>
+    <mvc:annotation-driven conversion-service="conversionServiceFactoryBean"></mvc:annotation-driven>
+
+    <!--配置自定义类型转换器-->
+    <bean id="conversionServiceFactoryBean" class="org.springframework.context.support.ConversionServiceFactoryBean">
+        <property name="converters">
+            <set>
+                <bean class="cn.itcast.utils.StringtoConverter"/>
+            </set>
+        </property>
+    </bean>
 </beans>

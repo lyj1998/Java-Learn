@@ -1,31 +1,43 @@
 package cn.itcast.domain;
 
 import java.io.Serializable;
+import java.util.Date;
 
 public class User implements Serializable {
-    private Integer uname;
-    private String age;
-    public Integer getUname() {
+    private String uname;
+    private Integer age;
+    private Date date;
+
+    public String getUname() {
         return uname;
     }
 
-    public void setUname(Integer uname) {
-        this.uname = uname;
-    }
-
-    public String getAge() {
+    public Integer getAge() {
         return age;
     }
 
-    public void setAge(String age) {
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public void setUname(String uname) {
+        this.uname = uname;
+    }
+
+    public void setAge(Integer age) {
         this.age = age;
     }
 
     @Override
     public String toString() {
         return "User{" +
-                "uname=" + uname +
-                ", age='" + age + '\'' +
+                "uname='" + uname + '\'' +
+                ", age=" + age +
+                ", date=" + date +
                 '}';
     }
 }
