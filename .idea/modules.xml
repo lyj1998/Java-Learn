@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis/day01_mybatis_implementMybatis.iml" filepath="$PROJECT_DIR$/mybatis/day01_mybatis_implementMybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/day02_01_mybatis_crud/day02_01_mybatis_crud.iml" filepath="$PROJECT_DIR$/mybatis/day02_01_mybatis_crud/day02_01_mybatis_crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day02_05_spring_import/day02_05_spring_import.iml" filepath="$PROJECT_DIR$/spring/day02_05_spring_import/day02_05_spring_import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/day02_springmvc_filter.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/day02_springmvc_filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/day02_springmvc_response.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_response/day02_springmvc_response.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/day03_01_mybatis_one2many/day03_01_mybatis_one2many.iml" filepath="$PROJECT_DIR$/mybatis/day03_01_mybatis_one2many/day03_01_mybatis_one2many.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" filepath="$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" />

@@ -15,6 +15,7 @@
         <module name="day01_mybatis_mybatisAnnotation" />
         <module name="day02_01_mybatis_crud" />
         <module name="day02_05_spring_import" />
+        <module name="day02_springmvc_filter" />
         <module name="day02_springmvc_response" />
         <module name="day03_01_mybatis_one2many" />
         <module name="day03_01_spring_account" />
@@ -48,7 +49,8 @@
       <module name="day01_mybatis_mybatisAnnotation" target="1.5" />
       <module name="day02_01_mybatis_crud" target="1.5" />
       <module name="day02_05_spring_import" target="1.5" />
-      <module name="day02_springmvc_response" target="1.5" />
+      <module name="day02_springmvc_filter" target="1.8" />
+      <module name="day02_springmvc_response" target="1.8" />
       <module name="day03_01_mybatis_one2many" target="1.5" />
       <module name="day03_01_spring_account" target="1.5" />
       <module name="day03_02_mybatis_many2many" target="1.5" />

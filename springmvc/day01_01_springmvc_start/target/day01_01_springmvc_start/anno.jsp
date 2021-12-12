@@ -30,7 +30,7 @@
 
 <a href="anno/testSessionAttributes">testSessionAttributes</a>
 <a href="anno/getSessionAttributes">getSessionAttributes</a>
-<a href="anno/getSessionAttributes">getSessionAttributes</a>
+<a href="anno/delSessionAttributes">delSessionAttributes</a>
 
 </body>
 </html>
