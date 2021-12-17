@@ -27,6 +27,9 @@
                     success: function (data) {
                         //data：服务器端响应的json数据
                         alert(data);
+                        alert(data.username);
+                        alert(data.password);
+                        alert(data.age);
                     }
                 });
             });

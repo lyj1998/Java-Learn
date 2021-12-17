@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>拦截器</title>
 </head>
 <body>
-
+<a href="user/testException">testException</a>
 </body>
 </html>

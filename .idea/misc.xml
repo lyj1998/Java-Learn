@@ -3,7 +3,10 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/mybatis/day03_03_jndi" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day01_01_springmvc_start" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_response" />
   </component>
   <component name="MavenProjectsManager">
@@ -38,6 +41,9 @@
         <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/pom.xml" />
       </list>
     </option>
   </component>

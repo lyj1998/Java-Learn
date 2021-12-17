@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 <!--开启注解扫描-->
-    <context:component-scan base-package=""></context:component-scan>
+    <context:component-scan base-package="cn.itcast"></context:component-scan>
 
 
     <!--视图解析器-->
@@ -19,7 +19,8 @@
         <property name="prefix" value="/WEB-INF/pages/"></property>
         <property name="suffix" value=".jsp"></property>
     </bean>
-
+<!--配置springmvc异常处理器-->
+    <bean id="sysExceptionHandle" class="cn.itcast.exception.SysExceptionHandle"></bean>
     <!--开启springmvc框架注解的支持-->
    <mvc:annotation-driven></mvc:annotation-driven>
 </beans>
