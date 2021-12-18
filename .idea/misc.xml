@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_response" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/pom.xml" />
       </list>
     </option>
   </component>

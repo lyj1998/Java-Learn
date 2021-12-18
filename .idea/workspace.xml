@@ -2,64 +2,44 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="day02_springmvc_interceptor:war exploded" />
+      <artifact name="day02_springmvc_ssm:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fddedff5-e630-4ef5-ab1a-fe36b555449d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_fileupload_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_fileupload_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_fileuploadserver_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_fileuploadserver_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_interceptor_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_interceptor_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_18_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_18_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/day02_springmvc_fileupload.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/src/main/java/cn/itcast/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/src/main/resources/springmvc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/src/main/webapp/WEB-INF/pages/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/day02_springmvc_fileuploadserver.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/exception/SysException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/exception/SysExceptionHandle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/WEB-INF/pages/error.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/day02_springmvc_interceptor.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/java/cn/itcast/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/java/cn/itcast/interceptor/MyInterceptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/java/cn/itcast/interceptor/MyInterceptor2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/resources/springmvc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/webapp/WEB-INF/pages/success.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/ABA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Test1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/print1to100.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_ssm_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/day02_springmvc_ssm_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/day02_springmvc_ssm.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/controller/AccountController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/dao/AccountDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/domain/Account.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/AccountService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/impl/AccountServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestMyBatis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestSpring.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/applicationContext.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/jdbcConfig.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/WEB-INF/pages/list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/index.jsp" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/mybatis/day03_03_jndi/target/day03_03_jndi.war" afterPath="$PROJECT_DIR$/mybatis/day03_03_jndi/target/day03_03_jndi.war" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/target/day01_01_springmvc_start.war" afterPath="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/target/day01_01_springmvc_start.war" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/resources/springmvc.xml" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/resources/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/classes/springmvc.xml" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/classes/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/day02_springmvc_filter/WEB-INF/classes/springmvc.xml" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/day02_springmvc_filter/WEB-INF/classes/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/day02_springmvc_filter/index.jsp" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/target/day02_springmvc_filter/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/classes/com/itcast/controller/UserController.class" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/classes/com/itcast/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter.war" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter.war" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter/WEB-INF/classes/com/itcast/controller/UserController.class" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter/WEB-INF/classes/com/itcast/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter/index.jsp" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_response/target/day02_springmvc_filter/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/day02_springmvc_interceptor.iml" afterPath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/day02_springmvc_interceptor.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring/day02_05_spring_import/target/" />
     <ignored path="$PROJECT_DIR$/spring/day03_01_spring_account/target/" />
@@ -94,6 +74,7 @@
     <ignored path="$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/target/" />
     <ignored path="$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/target/" />
     <ignored path="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,9 +91,9 @@
         <option value="Enum" />
         <option value="Kotlin Class" />
         <option value="AnnotationType" />
+        <option value="Jsp File" />
         <option value="Interface" />
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -137,21 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/java/cn/itcast/domain/User.java" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/java/cn/itcast/utils/StringtoConverter.java" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/java/cn/itcast/controller/ParamController.java" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/param.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/WEB-INF/pages/success.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/java/cn/itcast/controller/AnnoController.java" />
-        <option value="$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/anno.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_filter/pom.xml" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/success.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/WEB-INF/success.jsp" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/java/com/itcast/domain/User.java" />
-        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/WEB-INF/pages/success.jsp" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/resources/springmvc.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/index.jsp" />
@@ -188,6 +154,21 @@
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/webapp/WEB-INF/page/success.jsp" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/java/cn/itcast/interceptor/MyInterceptor.java" />
         <option value="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/src/main/java/cn/itcast/interceptor/MyInterceptor2.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestSpring.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/domain/Account.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/jdbcConfig.properties" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestMyBatis.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/WEB-INF/pages/list.jsp" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/springmvc.xml" />
       </list>
     </option>
   </component>
@@ -332,9 +313,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -342,11 +322,275 @@
               <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="day04_04_mybatis_onetomany" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_response" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_response" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_response" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_response" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_springmvc_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,15 +603,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_filter\src\main\webapp\WEB-INF\pages" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_filter\src\main\webapp\WEB-INF" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp\WEB-INF\pages" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp\WEB-INF" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.itheima.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_ssm\src\main\resources" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_interceptor\src\main\resources" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileuploadserver\src\main\resources" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileuploadserver\src\main\webapp\WEB-INF" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileupload\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.test" />
@@ -376,12 +620,12 @@
       <recent name="" />
       <recent name="com.itheima.service.impl" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_interceptor\src\main\resources" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileuploadserver\src\main\resources" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileuploadserver\src\main\webapp\WEB-INF" />
-      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_fileupload\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_filter\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_filter\src\main\webapp\WEB-INF" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp\WEB-INF\pages" />
       <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp\WEB-INF" />
+      <recent name="D:\360Downloads\ideaProject\Java-Learn\springmvc\day02_springmvc_response\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,34 +651,6 @@
     <configuration name="ABA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ABA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day02_springmvc_response" />
-      <envs />
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day02_springmvc_response" />
-      <envs />
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Demo2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -487,6 +703,56 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="day02_springmvc_response" />
       <envs />
+    </configuration>
+    <configuration name="TestMyBatis.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="day02_springmvc_ssm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.TestMyBatis" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestSpring.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="day02_springmvc_ssm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.TestSpring" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -577,21 +843,85 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="day03_03_jndi:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/day03_mybatis_03_jndi" />
-          </settings>
-        </artifact>
-        <artifact name="day02_springmvc_fileupload:war">
+        <artifact name="day02_springmvc_ssm:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
-        <artifact name="day02_springmvc_fileuploadserver:war">
+      </deployment>
+      <server-settings>
+        <option name="AJP_PORT" value="1060" />
+        <option name="BASE_DIRECTORY_NAME" value="_Java-Learn" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7063" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day02_springmvc_ssm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="day02_springmvc_ssm:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -661,8 +991,7 @@
           <artifact name="day01_01_springmvc_start:war" />
           <artifact name="day02_springmvc_filter:war exploded" />
           <artifact name="day02_springmvc_response:war" />
-          <artifact name="day02_springmvc_fileupload:war" />
-          <artifact name="day02_springmvc_fileuploadserver:war" />
+          <artifact name="day02_springmvc_ssm:war exploded" />
         </option>
       </method>
     </configuration>
@@ -915,7 +1244,7 @@
     <configuration name="testInterceptor" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="day02_springmvc_interceptor:war exploded">
+        <artifact name="day02_springmvc_ssm:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -982,7 +1311,7 @@
       <method>
         <option name="Make" enabled="false" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day02_springmvc_interceptor:war exploded" />
+          <artifact name="day02_springmvc_ssm:war exploded" />
         </option>
       </method>
     </configuration>
@@ -998,19 +1327,19 @@
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.springmvc_response" />
       <item index="3" class="java.lang.String" itemvalue="Tomcat Server.springmvc" />
       <item index="4" class="java.lang.String" itemvalue="Tomcat Server.jndi" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Demo2" />
-      <item index="7" class="java.lang.String" itemvalue="Application.ABA" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Test1" />
-      <item index="9" class="java.lang.String" itemvalue="Application.print1to100" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ABA" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="7" class="java.lang.String" itemvalue="Application.print1to100" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.TestSpring.run" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.TestMyBatis.run" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.print1to100" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ABA" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMyBatis.run" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSpring.run" />
+        <item index="2" class="java.lang.String" itemvalue="Application.print1to100" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ABA" />
       </list>
     </recent_temporary>
   </component>
@@ -1038,7 +1367,8 @@
       <workItem from="1638766539805" duration="51431000" />
       <workItem from="1639105264404" duration="2931000" />
       <workItem from="1639109413415" duration="43240000" />
-      <workItem from="1639645127116" duration="7208000" />
+      <workItem from="1639645127116" duration="12442000" />
+      <workItem from="1639817428020" duration="7617000" />
     </task>
     <task id="LOCAL-00001" summary="day02">
       <created>1634811410450</created>
@@ -1051,42 +1381,43 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountTest_findAll - 2021.12.08 at 21h 12m 38s.xml">
-      <configuration name="AccountTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 00m 31s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 11m 59s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 03m 55s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 14m 04s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 04m 47s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 18m 17s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 06m 05s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 19m 54s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 08m 28s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 20m 11s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 09m 07s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 20m 31s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 10m 07s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 22m 06s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestMyBatis_run - 2021.12.18 at 18h 28m 21s.xml">
+      <configuration name="TestMyBatis.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 23m 10s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestSpring_run - 2021.12.18 at 16h 06m 14s.xml">
+      <configuration name="TestSpring.run" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnnotationCRUDTest_findAll - 2021.12.08 at 21h 24m 50s.xml">
-      <configuration name="AnnotationCRUDTest.findAll" configurationId="JUnit" />
+    <history-entry file="TestSpring_run - 2021.12.18 at 16h 09m 47s.xml">
+      <configuration name="TestSpring.run" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="364192000" />
+    <option name="totallyTimeSpent" value="377043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1100,16 +1431,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60392797" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34042552" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2624811" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21558245" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20272315" sideWeight="0.5133333" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -1245,183 +1576,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/webapp/WEB-INF/pages/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/java/com/itcast/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#218#219#0" expanded="false" />
-            <element signature="e#249#250#0" expanded="false" />
-            <element signature="e#297#298#0" expanded="false" />
-            <element signature="e#337#338#0" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-            <element signature="e#451#452#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#522#523#0" expanded="false" />
-            <element signature="e#548#549#0" expanded="false" />
-            <element signature="e#587#588#0" expanded="false" />
-            <element signature="e#617#618#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day01_01_springmvc_start/src/main/java/cn/itcast/controller/AnnoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/WEB-INF/pages/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="7" column="82" lean-forward="false" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/js/jquery-3.2.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/java/com/itcast/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3531">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/java/com/itcast/controller/Test.java" />
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1383">
-          <caret line="65" column="76" lean-forward="true" selection-start-line="65" selection-start-column="76" selection-end-line="65" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1611#1612#0" expanded="false" />
-            <element signature="e#1639#1640#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/ABA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="115" column="51" lean-forward="true" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-268">
-          <caret line="292" column="46" lean-forward="false" selection-start-line="292" selection-start-column="30" selection-end-line="292" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="53" column="72" lean-forward="false" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/test/print1to100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/src/main/webapp/WEB-INF/pages/success.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -1429,19 +1583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_fileuploadserver/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1466,7 +1611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2178">
           <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1474,7 +1618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1482,7 +1625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1490,33 +1632,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3531">
           <caret line="107" column="40" lean-forward="false" selection-start-line="107" selection-start-column="40" selection-end-line="107" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/SysException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/SysException.java" />
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/src/main/java/cn/itcast/exception.java" />
     <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_fileupload/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1524,12 +1648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding>
-            <element signature="e#135#136#0" expanded="false" />
-            <element signature="e#165#166#0" expanded="false" />
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#249#250#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1537,9 +1655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1547,9 +1662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1557,7 +1669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1565,7 +1676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="7" column="81" lean-forward="false" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1573,7 +1683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="22" column="0" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="57" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1581,7 +1690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1613,7 +1721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1621,7 +1728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1637,9 +1743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1647,7 +1750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1655,9 +1757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="57" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1665,9 +1764,191 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
           <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2409">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestSpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/Maven Local Space/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <marker date="1615364098971" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1615364098971" expanded="false" signature="154:400" ph="..." />
+            <marker date="1615364098971" expanded="true" signature="402:488" ph="@{...}" />
+            <marker date="1615364098971" expanded="true" signature="524:577" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/Maven Local Space/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/day04_04_mybatis_onetomany/src/main/resources/jdbcConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/test/TestMyBatis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="30" lean-forward="false" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/Maven Local Space/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/DriverManagerDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/day04_04_mybatis_onetomany/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/jdbcConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/WEB-INF/pages/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/java/cn/itcast/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="29" column="57" lean-forward="false" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="18" column="103" lean-forward="false" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="105" lean-forward="false" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_filter/day02_springmvc_filter.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_filter/day02_springmvc_filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/day02_springmvc_interceptor.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_interceptor/day02_springmvc_interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_response/day02_springmvc_response.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_response/day02_springmvc_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc/day02_springmvc_ssm/day02_springmvc_ssm.iml" filepath="$PROJECT_DIR$/springmvc/day02_springmvc_ssm/day02_springmvc_ssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/day03_01_mybatis_one2many/day03_01_mybatis_one2many.iml" filepath="$PROJECT_DIR$/mybatis/day03_01_mybatis_one2many/day03_01_mybatis_one2many.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" filepath="$PROJECT_DIR$/spring/day03_01_spring_account/day03_01_spring_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/day03_02_mybatis_many2many/day03_02_mybatis_many2many.iml" filepath="$PROJECT_DIR$/mybatis/day03_02_mybatis_many2many/day03_02_mybatis_many2many.iml" />
