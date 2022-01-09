@@ -38,6 +38,8 @@
                        可以使用..表示有误参数均可，有参数可以是任意类型
                 全通配写法：
                         * *..*.*(..)
+                切到业务层实现类下的所有方法
+                        * com.itheima.service.impl.*.*.(..)
     -->
     <!--配置Logger类-->
     <bean id="logger" class="com.itheima.utils.Logger"></bean>

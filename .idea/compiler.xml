@@ -13,6 +13,8 @@
         <module name="day01_04_mybatis_design" />
         <module name="day01_mybatis_implementMybatis" />
         <module name="day01_mybatis_mybatisAnnotation" />
+        <module name="day01_springboot_springboot_quick2" />
+        <module name="day01_springboot_springbootquick" />
         <module name="day02_01_mybatis_crud" />
         <module name="day02_05_spring_import" />
         <module name="day02_springmvc_fileupload" />
@@ -42,15 +44,13 @@
         <module name="mybatis" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="day01_01_mybatis_implement" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
       <module name="day01_01_mybatis_implementsmybatis" target="1.5" />
       <module name="day01_01_springmvc_start" target="1.8" />
-      <module name="day01_02_mybatis_mybatisAnnotation" target="1.5" />
       <module name="day01_03_mybatis_dao" target="1.5" />
       <module name="day01_04_mybatis_design" target="1.5" />
-      <module name="day01_mybatis_implementMybatis" target="1.5" />
-      <module name="day01_mybatis_mybatisAnnotation" target="1.5" />
+      <module name="day01_springboot_springboot_quick2" target="11" />
+      <module name="day01_springboot_springbootquick" target="1.8" />
       <module name="day02_01_mybatis_crud" target="1.5" />
       <module name="day02_05_spring_import" target="1.5" />
       <module name="day02_springmvc_fileupload" target="1.8" />
@@ -58,7 +58,6 @@
       <module name="day02_springmvc_filter" target="1.8" />
       <module name="day02_springmvc_interceptor" target="1.8" />
       <module name="day02_springmvc_response" target="1.8" />
-      <module name="day02_springmvc_ssm" target="1.8" />
       <module name="day03_01_mybatis_one2many" target="1.5" />
       <module name="day03_01_spring_account" target="1.5" />
       <module name="day03_02_mybatis_many2many" target="1.5" />
@@ -77,7 +76,7 @@
       <module name="day04_04_mybatis_onetomany" target="1.5" />
       <module name="day04_04_springtx_annotation" target="1.5" />
       <module name="day04_05_springtx_withoutxml" target="1.5" />
-      <module name="mybatis" target="1.5" />
+      <module name="mybatis" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

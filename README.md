@@ -96,5 +96,20 @@
  - springmvc之ssm整合案例
  <br/>
  [notes](https://blog.csdn.net/qq_42528769/category_9830972.html)
-          
+ 
+ ## SpringBoot
+ - springboot简介
+ - springboot快速入门
+    创建Maven工程<br/>
+    添加SpringBoot的起步依赖<br/>
+    编写springBoot引导类<br/>
+    编写Controller<br/>
+    测试<br/>
+ - springboot原理分析
+ - springboot的配置文件
+ - springboot与整合其他技术
+   springboot整合MyBatis<br/>
+   springboot整合Junit<br/>
+   springboot整合Spring Data JPA<br/>     
 
+springBoot项目指路：https://github.com/lyj1998/community
